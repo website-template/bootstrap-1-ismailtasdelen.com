@@ -1,4 +1,4 @@
-# Ismail Taşdelen | Web Page
+# İsmail Taşdelen | Website Page
 
 ## Software languages sed :
 
