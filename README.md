@@ -1,6 +1,6 @@
 # İsmail Taşdelen | Website Page
 
-## Software languages sed :
+## Software languages used :
 
 * Html
 * Php
